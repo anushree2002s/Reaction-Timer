@@ -1,6 +1,6 @@
 # Reaction-Timer
 
-##Description
+## Description
 It is a basic project done to learn more about vue.js and its lifecycle methods. 
 This is a simple reaction timer that measures your reaction time. It's a fun and interactive way to test your reflexes! Hope you're not a slow poke.
 
